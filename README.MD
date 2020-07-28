@@ -1,7 +1,6 @@
 ## Backend
 PDO e POO
 
-****
 
 ## Frontend 
 **Bootstrap**: https://getbootstrap.com
